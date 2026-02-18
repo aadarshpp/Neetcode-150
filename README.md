@@ -1,22 +1,38 @@
 # NeetCode 150 – Java
 
-This repository contains my solutions to the NeetCode 150 list, implemented in Java.
+This repository contains Java solutions for the NeetCode 150 problems. The problems are organized by topic.
+
+---
+
+## Purpose
+
+The repository is intended for:
+
+- Revisiting common data structure and algorithm patterns  
+- Practicing problem-solving in Java  
+- Keeping track of solved problems in an organized manner  
+- Serving as a reference for study or revision  
 
 ---
 
 ## Structure
 
-Problems are organized by topic.
-
+Problems are grouped by topic.  
 Each problem folder contains:
-- `Solution.java`
-- `README.md`
 
-Each problem is named using:
-<leetcode-number>-<problem-name>
+- `Solution.java` – implementation of the solution  
+- `README.md` – summary of the problem, complexity, and optional notes  
 
+Each problem folder is named using:
+
+`<leetcode-number>-<problem-name>` 
+
+---
+
+## Directory Layout
+
+```
 neetcode-150-java/
-│
 ├── arrays-hashing/
 ├── two-pointers/
 ├── sliding-window/
@@ -35,3 +51,27 @@ neetcode-150-java/
 ├── intervals/
 ├── math-geometry/
 └── bit-manipulation/
+```
+
+---
+
+## Problem READNE
+
+Each problem has a README of the following format:
+
+```
+# <LeetCode Number>. <Problem Name>
+
+## Topics
+<list of topics>
+
+## Difficulty
+<Easy / Medium / Hard>
+
+## Complexity
+- Time: O(…)
+- Space: O(…)
+
+## Approach
+<short explanation of approach>
+```
