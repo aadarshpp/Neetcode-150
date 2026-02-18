@@ -24,7 +24,7 @@ Each problem folder contains:
 - `README.md` – summary of the problem, complexity, and optional notes  
 
 Each problem folder is named using:
-`<leetcode-number>-<difficulty>-<problem-name>` 
+`<difficulty>-<leetcode-problem-number>--<problem-name>` 
 
 ---
 
