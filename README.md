@@ -1,4 +1,4 @@
-# NeetCode 150 – Java
+# NeetCode 150
 
 This repository contains Java solutions for the NeetCode 150 problems. The problems are organized by topic.
 
@@ -55,7 +55,7 @@ neetcode-150-java/
 
 ---
 
-## Problem READNE
+## Problem README
 
 Each problem has a README of the following format:
 
