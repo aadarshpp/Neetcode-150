@@ -31,7 +31,7 @@ Each problem folder is named using:
 ## Directory Layout
 
 ```
-neetcode-150-java/
+Neetcode-150/
 ├── arrays-hashing/
 ├── two-pointers/
 ├── sliding-window/
