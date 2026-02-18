@@ -13,7 +13,7 @@ Medium
 - Time: O(n * k)
 - Space: O(n * k)
 
->n = number of strings in list
+>n = number of strings in list   
 >k = length of longest string
 
 ## Approach
