@@ -32,24 +32,24 @@ Each problem folder is named using:
 
 ```
 Neetcode-150/
-├── arrays-hashing/
-├── two-pointers/
-├── sliding-window/
-├── stack/
-├── binary-search/
-├── linked-list/
-├── trees/
-├── heap-priority-queue/
-├── backtracking/
-├── tries/
-├── graphs/
-├── advanced-graphs/
-├── 1d-dynamic-programming/
-├── 2d-dynamic-programming/
-├── greedy/
-├── intervals/
-├── math-geometry/
-└── bit-manipulation/
+├── 01-arrays-hashing/
+├── 02-two-pointers/
+├── 03-sliding-window/
+├── 04-stack/
+├── 05-binary-search/
+├── 06-linked-list/
+├── 07-trees/
+├── 08-heap-priority-queue/
+├── 09-backtracking/
+├── 10-tries/
+├── 11-graphs/
+├── 12-advanced-graphs/
+├── 13-1d-dynamic-programming/
+├── 14-2d-dynamic-programming/
+├── 15-greedy/
+├── 16-intervals/
+├── 17-math-geometry/
+└── 18-bit-manipulation/
 ```
 
 ---
