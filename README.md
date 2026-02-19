@@ -20,8 +20,9 @@ The repository is intended for:
 Problems are grouped by topic.  
 Each problem folder contains:
 
-- `Solution.java` – implementation of the solution  
-- `README.md` – summary of the problem, complexity, and optional notes  
+- `Solution.py` - implementation of the solution in python
+- `Solution.java` - implementation of the solution in java
+- `README.md` - details of the problem, complexity, and approach
 
 Each problem folder is named using:
 `<difficulty>-<leetcode-problem-number>--<problem-name>` 
@@ -73,4 +74,8 @@ Each problem has a README of the following format:
 
 ## Approach
 <short explanation of approach>
+
+## Link
+- [Leetcode] (<leetcode-link>)
+- [Neetcode] (<neetcode-link>)
 ```
