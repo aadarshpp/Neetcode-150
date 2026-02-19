@@ -1,6 +1,6 @@
 # NeetCode 150
 
-This repository contains Java solutions for the NeetCode 150 problems. The problems are organized by topic.
+This repository contains Python and Java solutions for the NeetCode 150 problems. The problems are organized by topic.
 
 ---
 
