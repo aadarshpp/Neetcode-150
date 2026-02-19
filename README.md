@@ -1,6 +1,6 @@
 # NeetCode 150
 
-This repository contains Python and Java solutions for the NeetCode 150 problems. The problems are organized by topic.
+This repository contains Java solutions for the NeetCode 150 problems. The problems are organized by topic.
 
 ---
 
@@ -9,7 +9,7 @@ This repository contains Python and Java solutions for the NeetCode 150 problems
 The repository is intended for:
 
 - Revisiting common data structure and algorithm patterns  
-- Practicing problem-solving in Python and Java  
+- Practicing problem-solving in Java  
 - Keeping track of problems in an organized manner  
 - Serving as a reference for study or revision  
 
@@ -20,7 +20,6 @@ The repository is intended for:
 Problems are grouped by topic.  
 Each problem folder contains:
 
-- `Solution.py` - implementation of the solution in python
 - `Solution.java` - implementation of the solution in java
 - `README.md` - details of the problem, complexity, and approach
 
