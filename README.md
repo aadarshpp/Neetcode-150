@@ -9,8 +9,8 @@ This repository contains Python and Java solutions for the NeetCode 150 problems
 The repository is intended for:
 
 - Revisiting common data structure and algorithm patterns  
-- Practicing problem-solving in Java  
-- Keeping track of solved problems in an organized manner  
+- Practicing problem-solving in Python and Java  
+- Keeping track of problems in an organized manner  
 - Serving as a reference for study or revision  
 
 ---
