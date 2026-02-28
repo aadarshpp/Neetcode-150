@@ -4,12 +4,12 @@
 Medium
 
 ## Complexity
-- Time: O(s * 1 + g * log(n))
-- Space: O(s)
+- Time: O(log(n))
+- Space: O(1)
 
 ## Approach
-Use a HashMap to store each key and its list of (timestamp, value) pairs.In get(), retrieve the list from the map and use binary search to find the value with the greatest timestamp less than or equal to the given timestamp.
+Use two pointers l and r with middle m. If nums[m] is target, return m. If left side nums[l..m] is sorted and target is there, search left (r = m-1), else search right (l = m+1). If right side nums[m..r] is sorted, do the same symmetrically. Repeat until found or return -1.
 
 ## Links
 - [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [NeetCode](https://neetcode.io/problems/time-based-key-value-store)
+- [NeetCode](https://neetcode.io/problems/find-target-in-rotated-sorted-array)
