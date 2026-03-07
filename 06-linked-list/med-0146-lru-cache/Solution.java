@@ -1,3 +1,5 @@
+import java.util.*;
+
 class LRUCache {
 
     private int count;
